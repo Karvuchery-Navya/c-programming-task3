@@ -1,4 +1,4 @@
-# c-programming-task2
+# c-programming-task3
 
 program:
 
