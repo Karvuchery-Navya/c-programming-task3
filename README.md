@@ -1,4 +1,5 @@
 # c-programming-task3
+
 library management system
 
 program:
@@ -16,6 +17,7 @@ program:
 output:
 
 <img width="1000" height="1600" alt="7584aa6d-e7b7-40f2-9a11-098fd93b6cde" src="https://github.com/user-attachments/assets/018f3813-3b4d-4946-b07e-05d1f829eb34" />
+
 
 
 
